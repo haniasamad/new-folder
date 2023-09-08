@@ -1,0 +1,37 @@
+.main{ 
+     background-color:skyblue;
+     width:1000px;
+     }
+li{
+   display:inline;
+   
+}
+
+ul{  
+   display:inline;
+   margin:bottom;40px;
+   color:white;
+
+}
+
+
+.word{
+      width:300px;
+      width:200px;
+}
+button{
+       margin:right;
+       border-radius:200px;
+       padding:10px;
+       box-shadow:5px 5px 40px blue;}
+.this{
+
+     background-color:gray;
+     width:11000px;
+     height:1000px;
+     color:white;
+     button-padding:10px;
+     
+
+
+    
